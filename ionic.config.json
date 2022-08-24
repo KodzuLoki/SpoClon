@@ -1,0 +1,7 @@
+{
+  "name": "SpoClon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
